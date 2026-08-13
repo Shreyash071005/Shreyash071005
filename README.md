@@ -33,7 +33,7 @@ Final-year student pursuing a Bachelor's degree in Artificial Intelligence and M
 |---|---|---|
 | [Movie Streaming Platform](https://github.com/Shreyash071005/Movies-App-Netflix-Amazon-Prime-Clone-) | Netflix and Prime Video-inspired browsing application with protected routing, real-time search, and JWT authentication | React.js, Context API |
 | [Nxt Watch](https://github.com/Shreyash071005/Nxt-Watch) | YouTube-inspired video platform built on a styled-components architecture | React.js, Styled-Components |
-| SPPU Result Bot | Automated result-monitoring system for Savitribai Phule Pune University; delivers official result PDFs via Telegram and email the moment results are declared | Python, Telegram Bot API, SQLite |
+| [SPPU Result Automation Bot](https://github.com/Shreyash071005/SPPU-Result-Automation-Bot) | Automated result-monitoring system for Savitribai Phule Pune University; delivers official result PDFs via Telegram and email the moment results are declared | Python, Telegram Bot API, SQLite |
 | [GravityShift](https://github.com/Shreyash071005/GravityShift) | Cross-platform mobile application | React Native, Expo |
 | [Mutual Fund Tracker](https://mutualfunds.infinityfreeapp.com/) | Investment tracking application using real-time NAV data from an external API | PHP, MySQL |
 
